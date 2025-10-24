@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Statement Analyzer",
+  "description": "An application that allows users to upload financial statements (Balance Sheet, Income Statement, or Cash Flow Statement) of UAE-listed companies. The app extracts financial data, calculates key ratios using AI, and generates a summary of the company's financial health along with an investment recommendation.",
+  "requestFramePermissions": []
+}
